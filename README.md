@@ -59,10 +59,4 @@ file_types = {
 }
 
 ---
-## 🏆 Ideal For
 
-- Beginners learning Python file handling
-
-- Portfolio projects showcasing automation skills
-
-- Personal productivity (organize downloads or desktop folders easily)
