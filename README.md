@@ -54,8 +54,8 @@ Want to add your own file type category?
 Just edit this dictionary in file_organizer.py:
 
 file_types = {
-    'Images': ['.jpg', '.jpeg', '.png'],
-    'MyCategory': ['.xyz', '.abc'],  # Add your custom types here
+   - 'Images': ['.jpg', '.jpeg', '.png'],
+   - 'MyCategory': ['.xyz', '.abc'],  # Add your custom types here
 }
 
 ---
